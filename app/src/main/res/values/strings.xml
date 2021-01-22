@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AprendendoIngles</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button_cachorro">cachorro</string>
+    <string name="button_gato">gato</string>
+    <string name="button_vaca">vaca</string>
+    <string name="button_ovelha">ovelha</string>
+    <string name="button_leao">leao</string>
+    <string name="button_macaco">macaco</string>
+    <string name="button_um">um</string>
+    <string name="button_dois">dois</string>
+    <string name="button_tres">tres</string>
+    <string name="button_quatro">quatro</string>
+    <string name="button_cinco">cinco</string>
+    <string name="button_seis">seis</string>
+</resources>
